@@ -17,7 +17,7 @@
 <div align="center">
   
 ![img](Home.png)
-![img](Add_post.jpg)  
+![img](Add_post.png)  
 
 
 </div>
