@@ -1,0 +1,75 @@
+<h1 align="center">Blogs :sloth: :dragon:</h1>
+<div align="center">
+  
+  <h2> Recruiting made easy. </h2>
+  <h3 align="center"><b>Check out the <a href="https://jobhunt-disha-tushar.herokuapp.com/">deployed app </a>:heart:</b></h3>
+
+</div>
+
+<div align="center">
+  
+[![](https://img.shields.io/badge/Made_with-Django-black?style=for-the-badge&logo=django)](https://www.djangoproject.com/ "Django")
+[![](https://img.shields.io/badge/Made_with-Sqlite3-white?style=for-the-badge&logo=Sqlite3)](https://https://www.sqlite.org/ "Sqlite3")
+
+</div>
+
+- ### Snapshots of the project :
+
+<div align="center">
+  
+![img](screenshots/home.png)
+![img](screenshots/add_post.jpg)  
+
+
+</div>
+
+
+---
+
+  
+### To run this project :
+
+Clone the project -
+```
+  $ https://github.com/dhruvdaftary/BlogProject.git
+```
+  
+Install all the requirements -
+```
+  $ pip install -r requirements.txt
+ ``` 
+Run the following commands -
+
+ for linux/mac :
+``` 
+  $ python manage.py makemigrations blog
+  $ python manage.py makemigrations users
+  $ python manage.py migrate
+``` 
+ for windows :
+ ``` 
+  $ python manage.py makemigrations blog
+  $ python manage.py makemigrations users
+  $ python manage.py migrate
+  ``` 
+Create Super user for admin page -
+ $ python manage.py createsuperuser
+ ```
+ ``` 
+Start the project -
+ - ### Run the Web Application -
+ for linux/mac :
+```
+  $ python manage.py runserver
+```  
+ for windows :
+``` 
+  $ python manage.py runserver
+```
+- #### If you have any improvements create an issue and if you want you can also make a pull request for the same 
+
+---
+
+
+---
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/dhruvdaftary">Dhruv Daftary</a>.</b></h1>
