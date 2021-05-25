@@ -1,8 +1,7 @@
-<h1 align="center">Blogs :sloth: :dragon:</h1>
+<h1 align="center">Blogs :heart: 💮</h1>
 <div align="center">
   
-  <h2> Recruiting made easy. </h2>
-  <h3 align="center"><b>Check out the <a href="https://jobhunt-disha-tushar.herokuapp.com/">deployed app </a>:heart:</b></h3>
+  <h2> Write and share your experiences here </h2>
 
 </div>
 
