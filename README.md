@@ -1,4 +1,4 @@
-<h1 align="center">Blogs :heart: 💮</h1>
+<h1 align="center">:heart: Blogs :heart:</h1>
 <div align="center">
   
   <h2> Write and share your experiences here </h2>
