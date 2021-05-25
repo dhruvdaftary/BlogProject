@@ -16,8 +16,8 @@
 
 <div align="center">
   
-![img](screenshots/home.png)
-![img](screenshots/add_post.jpg)  
+![img](Home.png)
+![img](Add_post.jpg)  
 
 
 </div>
