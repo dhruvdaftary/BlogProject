@@ -53,7 +53,7 @@ Run the following commands -
   ``` 
 Create Super user for admin page -
 ``` 
- $ python manage.py migrate
+ $ python manage.py createsuperuser
  ```
  
 Start the project -
