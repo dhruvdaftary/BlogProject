@@ -52,9 +52,10 @@ Run the following commands -
   $ python manage.py migrate
   ``` 
 Create Super user for admin page -
- $ python manage.py createsuperuser
+``` 
+ $ python manage.py migrate
  ```
- ``` 
+ 
 Start the project -
  - ### Run the Web Application -
  for linux/mac :
