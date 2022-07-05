@@ -72,4 +72,4 @@ Start the project -
 
 
 ---
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/dhruvdaftary">Dhruv Daftary</a> and <a href="https://github.com/Tanisha-A">Tanisha Admane</a></b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/dhruvdaftary">Dhruv Daftary</a> </b></h1>
